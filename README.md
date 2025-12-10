@@ -1,5 +1,6 @@
 # About me
 I'm currently studying .NET-developement at IT-högskolan in Gothenburg.
+Looking for LIA/internship autumn 2026.
 
 
 <h1>Contact</h1>
